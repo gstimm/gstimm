@@ -26,7 +26,7 @@
 <br/>
 
 <div>
-  <img align="right" src="./assets/giphy.gif" width="40%"/>
+  <img align="right" src="./assets/giphy.gif" width="30%"/>
   
   - 💻 <samp> I currently work as a Software Developer using the JavaScript Stack;
   - 📚 <samp> I'm a junior year student of Computer Science at the Federal University of Pelotas and also graduated in Electronics Technician at the Federal Institute of Rio Grande do Sul; 
@@ -34,4 +34,4 @@
 
 <br/>
 
-[![Gabriel Timm's github stats](https://github-readme-stats.vercel.app/api?username=gstimm&show_icons=true&theme=tokyonight)](https://github.com/gstimm/github-readme-stats)
+
