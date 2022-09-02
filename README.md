@@ -26,7 +26,7 @@
 <br/>
 
 <div>
-  <img align="right" src="./assets/giphy.gif" width="42%"/>
+  <img align="right" src="./assets/giphy.gif" width="40%"/>
   
   - 💻 <samp> I currently work as a Software Developer using the JavaScript Stack;
   - 📚 <samp> I'm a junior year student of Computer Science at the Federal University of Pelotas and also graduated in Electronics Technician at the Federal Institute of Rio Grande do Sul; 
